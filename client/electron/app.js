@@ -4,3 +4,6 @@ navigator.mediaDevices.getUserMedia({video: true})
   }).catch(function() {
     alert('could not connect stream');
   });
+
+
+  console.log('helllooooo')
