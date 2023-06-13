@@ -185,4 +185,6 @@ if ($) {
   }
 }
 
+console.log('some changes');
+
 export default Alert
